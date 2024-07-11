@@ -1,9 +1,8 @@
 public class homework {
     
         public static void main (String[] args){
-            System.out.println("homewor_done");
+            System.out.println("homework_done");
         }
     }
-
 
 

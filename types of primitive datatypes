@@ -1,0 +1,9 @@
+primitive dataypes 
+int:integer->4bytes
+float:decimal upto 6 decimal->4 bytes 
+double:decimal upto 15 decimal->8 bytes
+char:character->2 bytes 
+long:integer->8 bytes
+boolean:true of false->1 bit
+short:number->2 bytes
+
